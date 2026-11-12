@@ -16,7 +16,7 @@ Live app: https://vendorgate-production-3ec4dac7.up.railway.app
 5. Click **Allow access**.
 6. In a new Claude chat, open the tools menu and switch **Vendorgate** on.
 
-Screenshots of each step are in the [README](../README.md#connect-vendorgate-to-claude).
+Screenshots of each step: [CONNECT.md](CONNECT.md).
 
 ## B. Onboard a vendor
 
