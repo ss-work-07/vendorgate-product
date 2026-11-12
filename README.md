@@ -21,11 +21,11 @@
 2. Name it **Vendorgate**, paste the MCP link above, and click **Add**.
 3. Click **Connect**. A Vendorgate sign-in page opens: click **open the live demo** (no password needed), or log in to your own workspace.
 
-   <img src="docs/screenshots/02-sign-in.png" alt="Vendorgate sign-in page opened by Claude" width="520">
+   <img src="docs/screenshots/02-sign-in-card.png" alt="Vendorgate sign-in page opened by Claude" width="320">
 
 4. Click **Allow access**. Claude can read and update vendors and invoices, but it can never approve a vendor.
 
-   <img src="docs/screenshots/03-allow-access.png" alt="Consent screen: Connect Claude to Vendorgate?" width="520">
+   <img src="docs/screenshots/03-allow-access-card.png" alt="Consent screen: Connect Claude to Vendorgate?" width="320">
 
 5. In a new chat, open the tools menu, switch **Vendorgate** on, and try:
 
